@@ -1,3 +1,5 @@
+<!-- @format -->
+
 este es un commit de prueba.
 solvente el bug
 otra prueba
@@ -6,5 +8,6 @@ otro cambio
 este es un cambio en la rama local
 este es otro cambio pero en la rama test
 Eribert marquez
-Edward Cifuentes moreno
-Cambio de Jesus
+Edward Cifuentes
+
+descripcion: este es un proyecto de prueba para mostrar el flujo de trabajo utilizado gitflow
